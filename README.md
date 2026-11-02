@@ -18,14 +18,15 @@
 
 ### About me
 
-CS student at **Universidad Católica San Pablo**
-
-Passionate about software development, **Deep Learning & ML** research,
-game development and **Virtual / Augmented Reality**.
-Fascinated by the intersection of **music and artificial intelligence**.
-
-<br/>
-
+```typescript
+const just_0: Developer = {
+  name:      "Justo Perez",
+  studying:  "CS @ Universidad Católica San Pablo",
+  focus:     ["Deep Learning & ML", "Game Dev", "VR / AR"],
+  obsession: "music × artificial intelligence",
+  currently: "building in public",
+};
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/justo-alfredo-perez-choque)
 [![GitHub](https://img.shields.io/badge/just--0-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/just-0)
@@ -102,9 +103,66 @@ Fascinated by the intersection of **music and artificial intelligence**.
 
 ---
 
+## Featured projects
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+
+**[chiveroApp](https://github.com/just-0/chiveroApp)**
+
+Social network for musicians.
+
+`C++`
+
+  </td>
+  <td valign="top" width="50%">
+
+**[MusicApp](https://github.com/just-0/MusicApp)**
+
+Mobile music app built with Flutter.
+
+`Dart` · `Flutter`
+
+  </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+**[Tower-Defense](https://github.com/just-0/Tower-Defense)**
+
+Tower defense game built in Unity.
+
+`C#` · `Unity`
+
+  </td>
+  <td valign="top" width="50%">
+
+**[Chat-Nip](https://github.com/just-0/Chat-Nip)**
+
+Game jam entry made with Godot.
+
+`GDScript` · `Godot`
+
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![All repositories](https://img.shields.io/badge/Explore_all_repositories-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/just-0?tab=repositories)
+
+</div>
+
+---
+
 ## Contributions
 
 <div align="center">
+
+<img src="https://www.gitskins.com/api/section/city?username=just-0&theme=neon" width="100%" alt="Contribution city" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/just-0/just-0/output/github-contribution-grid-snake-dark.svg" />
